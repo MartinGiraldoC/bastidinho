@@ -1,22 +1,39 @@
 /*
 Primary: #E14D2A
-Secundary: #FD841F 
+Secundary: #000000
 Light: #3E6D9C
 Info: #001253
 */
 
 .bg-primary{
-    background-color: #E14D2A;
+    background-color: #3E6D9C;
 }
 .text-light{
-   color: #3E6D9C;
+   color: #FFFFFF;
 }
-.text.secundary{
-    color: #FD841F;
+.text-secundary{
+    color: #000000;
 }
 .text-center{
     text-align: center;
 }
 .text-right{
     text-align: right;
+    font-size: 20px;
+}
+.width-100{
+    width: 100px;
+}
+.bg-info{
+    background-color: #3E6D9C;
+}
+.text-primary{
+    color: #3E6D9C;
+}
+.parrafo{
+    font-size: 25px;
+}
+.img{
+    height: 100px;
+    
 }
